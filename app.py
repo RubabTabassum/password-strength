@@ -1,4 +1,4 @@
-password strength..
+#password strength..
 import streamlit as st
 import re
 st.set_page_config(page_title="Password Strenght Checker", page_icon="0")
